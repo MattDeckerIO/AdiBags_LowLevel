@@ -1,9 +1,3 @@
---[[
-AdiBags_Lowlevel - Adds Lowlevel filters to AdiBags.
-Copyright 2016 seirl
-All rights reserved.
---]]
-
 local _, ns = ...
 local string_find = string.find
 local addon = LibStub("AceAddon-3.0"):GetAddon("AdiBags")

@@ -1,9 +1,9 @@
 ## Interface: 100002
 
-## Title: AdiBags - Filter for low level items
-## Notes: Adds low level filters to AdiBags.
-## Author: Kirron
-## Version: 0.5
+## Title: AdiBags - Low Level
+## Notes: Adds a low level filter to AdiBags.
+## Author: KirronVerified
+## Version: 1.0
 
 ## Dependencies: AdiBags
 
