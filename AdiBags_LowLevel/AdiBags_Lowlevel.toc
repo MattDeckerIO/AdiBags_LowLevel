@@ -1,0 +1,10 @@
+## Interface: 100002
+
+## Title: AdiBags - Low Level
+## Notes: Adds a low level filter to AdiBags.
+## Author: KirronVerified
+## Version: 1.0
+
+## Dependencies: AdiBags
+
+AdiBags_Lowlevel.lua
