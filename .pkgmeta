@@ -1,0 +1,14 @@
+package-as: AdiBags_LowLevel
+enable-nolib-creation: no
+
+move-folders:
+    AdiBags_LowLevel/AdiBags_LowLevel: AdiBags_LowLevel
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
+
+ignore:
+    - CHANGELOG.md
+    - README.md
+    - .editorconfig
