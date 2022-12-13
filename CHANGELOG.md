@@ -1,5 +1,8 @@
 # AdiBags Low Level Change Log
 
+## [1.0.0] 2022-12-12
+- 1.0.0 Release
+
 ## [1.0.4-alpha] 2022-12-12
 ### Fixed
 - Attempts to figure out the curseforge packager via .pkgmeta

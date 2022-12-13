@@ -3,7 +3,7 @@
 ## Title: AdiBags - Low Level
 ## Notes: Adds a low level filter to AdiBags.
 ## Author: KirronVerified
-## Version: 1.0.3-alpha
+## Version: 1.0.0
 
 ## Dependencies: AdiBags
 
