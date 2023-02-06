@@ -1,5 +1,8 @@
 # AdiBags Low Level Change Log
 
+## [1.0.1] 2022-12-12
+- 10.0.5 Compatibility
+
 ## [1.0.0] 2022-12-12
 - 1.0.0 Release
 
